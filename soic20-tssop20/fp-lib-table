@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SOIC20-TSSOP20)(type KiCad)(uri "$(KIPRJMOD)/SOIC20-TSSOP20.pretty")(options "")(descr ""))
+)
