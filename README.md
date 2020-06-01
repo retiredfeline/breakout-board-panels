@@ -2,7 +2,7 @@
 
 I imported some breakout boards at [Kevin Neubaur DIP-Breakout-Boards](https://github.com/neubauek/DIP-Breakout-Boards) from Eagle format into Kicad 5.1 and panelised them using [Kicad Panelizer](https://github.com/sej7278/kicad-panelizer) so that you can get them manufactured cheaply. The manufacturer may charge extra for V-cuts so check as this may affect the economics.
 
-A description of this project can be found at [Hackaday](https://...).
+A description of this project can be found at [Hackaday](https://hackaday.io/project/172085-breakout-board-panels).
 
 Feel free to use the Kicad or Gerber files here under [CC-by-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). I will add to the collection of converted boards with time.
 
